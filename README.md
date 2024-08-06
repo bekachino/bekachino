@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Beka</h1>
+<h1 align="center">Beka Razzakov</h1>
 <h3 align="center">Junior frontend developer from Kyrgyzstan🇰🇬</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bekatherazzakov" alt="bekatherazzakov" /></a> </p>
