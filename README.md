@@ -17,9 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekachino&show_icons=true&locale=en&layout=compact" alt="bekachino" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekachino" alt="bekachino" /></p>
-
-
 - 📫 How to reach me **https://t.me/bekachino**
 
-- 📄 Know about my experiences [https://myresume.ru/resume/mTBOHjEZ69r/](https://myresume.ru/resume/mTBOHjEZ69r/)
+- 📄 [Know about my experiences](https://myresume.ru/resume/mTBOHjEZ69r/)
