@@ -1,7 +1,7 @@
 <h1 align="center">Beka Razzakov</h1>
 <h3 align="center">Junior frontend developer from Kyrgyzstan🇰🇬</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bekatherazzakov" alt="bekatherazzakov" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bekachino" alt="bekachino" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -15,9 +15,9 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekatherazzakov&show_icons=true&locale=en&layout=compact" alt="bekatherazzakov" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekachino&show_icons=true&locale=en&layout=compact" alt="bekachino" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekatherazzakov&" alt="bekatherazzakov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekachino&" alt="bekachino" /></p>
 
 
 - 📫 How to reach me **https://t.me/beka_razzakov**
