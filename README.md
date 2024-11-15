@@ -20,6 +20,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekachino" alt="bekachino" /></p>
 
 
-- 📫 How to reach me **https://t.me/beka_razzakov**
+- 📫 How to reach me **https://t.me/bekachino**
 
 - 📄 Know about my experiences [https://myresume.ru/resume/mTBOHjEZ69r/](https://myresume.ru/resume/mTBOHjEZ69r/)
